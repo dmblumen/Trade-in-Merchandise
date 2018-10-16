@@ -1,0 +1,10 @@
+name: trade
+title:
+username:
+account: dmblumen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 515857
+bundleId: 1644736
+url: https://dmblumen.shinyapps.io/trade/
+when: 1539647734.33077
